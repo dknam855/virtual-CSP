@@ -30,5 +30,17 @@ Virtual CSP (Cryptographic Service Provider) is a tool that lets you sign docume
 ## Why Use Virtual CSP?
 Perfect for businesses or individuals who want a modern, flexible way to sign digitally, especially if you already have an HSM but struggle to integrate it with various software.
 
+##Vietnamese
+Virtual CSP (CSP ảo) là một giải pháp giúp bạn ký số dễ dàng trên máy tính mà không cần USB Token. Nó kết nối trực tiếp với server (HSM) qua mạng, cho phép bạn dùng các phần mềm quen thuộc như Word, Acrobat, hoặc hệ thống Thuế, Hải Quan để ký số ngay tại máy của mình.
+
+Lợi ích:
+
+Dùng giống như USB Token, nhưng không cần cắm thiết bị vật lý.
+Ký nhanh chóng trên nhiều ứng dụng Windows (Word, PDF, Thuế...).
+Tiện lợi, không lo mất hay hỏng Token ( các khóa được quản lý tập trung trên HSM)
+
+Đối tượng:
+Doanh nghiệp đã trang bị HSM và có sẵn API ký số
+
 ## Contact
 [dk.nam855@gmail.com]!# virtual-CSP
